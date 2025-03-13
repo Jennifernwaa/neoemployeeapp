@@ -18,3 +18,4 @@ NeoEmployee is a comprehensive employee management mobile application designed t
 - UI/UX: Figma/Adobe XD
 
 Designed for companies with multiple departments across various locations, NeoEmployee aims to enhance workplace communication and efficiency through its integrated suite of tools.
+Created by: Fais, Sidan, Jennifer, Jessica, Johan, Daisy, Priska
