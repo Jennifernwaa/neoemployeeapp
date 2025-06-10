@@ -3,11 +3,7 @@
 NeoEmployee is a comprehensive employee management mobile application designed to streamline workplace operations and boost productivity. Built with Kotlin for Android, this app integrates various HR and collaboration tools into a single, user-friendly platform.
 ![Screen Shot 2025-01-25 at 18 46 26](https://github.com/user-attachments/assets/c0ee198d-403f-47b5-9542-3cc2a3be8455)
 
-![Screen Shot 2025-01-25 at 20 23 55](https://github.com/user-attachments/assets/4fcd8eb5-f801-4790-9da0-eb64e6b41ebd)
-
-![Screen Shot 2025-01-25 at 20 24 09](https://github.com/user-attachments/assets/06f254a4-751f-4e71-9dfb-297261d944df)
-
-![Screen Shot 2025-01-25 at 20 24 25](https://github.com/user-attachments/assets/3ead82ad-ef9b-4781-bd65-cb815a3f6939)
+![Screen Shot 2025-01-25 at 20 23 55](https://github.com/user-attachments/assets/4fcd8eb5-f801-4790-9da0-eb64e6b41ebd) ![Screen Shot 2025-01-25 at 20 24 09](https://github.com/user-attachments/assets/06f254a4-751f-4e71-9dfb-297261d944df) ![Screen Shot 2025-01-25 at 20 24 25](https://github.com/user-attachments/assets/3ead82ad-ef9b-4781-bd65-cb815a3f6939)
 
 
 
